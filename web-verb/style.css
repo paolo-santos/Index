@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+/*------------------*/
+.boxes{
+    font-size:0;
+}
+
+.box{
+    width:2vw;
+    height:2.95vh;
+    background-color: black;
+    display:inline-block;
+}
+
+/*.box:hover{
+    border-radius:100%;
+    transition:250ms;
+    background-color: black;
+}*/

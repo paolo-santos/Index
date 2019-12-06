@@ -1,0 +1,35 @@
+p {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight:lighter;
+	line-height:1.5em;
+	text-align:center;
+	opacity:0.1;
+}
+
+h1{
+	text-align:center;
+	opacity:0.1;
+}
+
+hr{
+	opacity:0.1;
+}
+/*------------------------------------------------------------*/
+p:hover{
+ 	font-family:Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight:lighter;
+	line-height:1.5em;
+	text-align:center;
+	opacity:1;
+}
+
+h1:hover{
+	text-align:center;
+	opacity:1;
+}
+
+hr:hover{
+	opacity:1;
+}

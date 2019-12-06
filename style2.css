@@ -1,0 +1,28 @@
+h1 {
+	font-size:30px;
+	font-family:sans-serif;
+	color:white;
+
+}
+
+a {
+	font-family:Dosis, Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight:normal;
+	line-height:1.5em;
+	color:white;
+	position:absolute;
+	left:20px;
+
+}
+
+.box2{
+	width:1010px;
+	height:400px;
+	background:#292929;
+	transition:500ms;
+	position:absolute;
+	z-index:-1;
+	top:65px;
+
+}
